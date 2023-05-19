@@ -1,24 +1,24 @@
 {
-    "TITLU": "Bună ziua!",
-    "DESCRIERE": "Sunt Iulia Asproiu, absolventă a programului de masterat în Comunicare Web Multilingvă și caut următoarea provocare în domeniul UX/UI.",
-    "EXPERIENȚĂ PROFESIONALĂ": {
-        "2023": "2023-prezent\n Manager de Social Media și Coordonator de Cursuri de Limbi Străine, Akademia Zentrum für Kommunikation und Bildung GmbH",
-        "2022": "2022 - 2023\n Redactor Online, Romania-Insider.com",
-        "2021": "2021 - 2022\n Consultant în Integrare, Consiliul Municipal Fürth, Germania",
-        "2021-1": "2021 - 2022\n Customer Success și Asistent Marketing NLG, AX Semantics GmbH",
-        "2018": "2018 - 2021\n Recrutor de Resurse Umane și Asistent de Marketing, persontura GmbH Co KG, Erlangen, Germania",
-        "2016": "2016 - 2018\n Transcriptor pentru Limba Engleză, Română, Germană, LXT AI"
-    },
-    "EDUCAȚIE": {
-        "2022": "2022 - 2023\n Masterat în Comunicare Web Multilingvă, Universitatea din Strasbourg, Facultatea de Limbi Străine",
-        "2020": "2020 - 2023\n Licență în Științe Politice, Administrative și ale Comunicării, Universitatea Babeș-Bolyai, Cluj-Napoca, România, Focus: Jurnalism și Media Digitală",
-        "2019": "2019 - 2022\n Traducere și Interpretare Juridică, Institutul de Limbi Străine și Studii Internaționale",
-        "2017": "2017 - 2019\n Corespondent Limbi Străine, Institutul de Limbi Străine și Studii Internaționale\n Certificat de stat"
-    },
-    "PORTOFOLIU": {
-        "PORTOFOLIU": "Portofoliu",
-    },
-    "CONTACT": {
-        "CONTACTEAZĂ-MĂ": "Contactează-mă",
-    }
+	"TITLU": "Bună ziua!",
+	"DESCRIERE": "Sunt Iulia Asproiu, absolventă a programului de masterat în Comunicare Web Multilingvă și caut următoarea provocare în domeniul UX/UI.",
+	"EXPERIENȚĂ PROFESIONALĂ": {
+		"2023": "2023-prezent\n Manager de Social Media și Coordonator de Cursuri de Limbi Străine, Akademia Zentrum für Kommunikation und Bildung GmbH",
+		"2022": "2022 - 2023\n Redactor Online, Romania-Insider.com",
+		"2021": "2021 - 2022\n Consultant în Integrare, Consiliul Municipal Fürth, Germania",
+		"2021-1": "2021 - 2022\n Customer Success și Asistent Marketing NLG, AX Semantics GmbH",
+		"2018": "2018 - 2021\n Recrutor de Resurse Umane și Asistent de Marketing, persontura GmbH Co KG, Erlangen, Germania",
+		"2016": "2016 - 2018\n Transcriptor pentru Limba Engleză, Română, Germană, LXT AI"
+	},
+	"EDUCAȚIE": {
+		"2022": "2022 - 2023\n Masterat în Comunicare Web Multilingvă, Universitatea din Strasbourg, Facultatea de Limbi Străine",
+		"2020": "2020 - 2023\n Licență în Științe Politice, Administrative și ale Comunicării, Universitatea Babeș-Bolyai, Cluj-Napoca, România, Focus: Jurnalism și Media Digitală",
+		"2019": "2019 - 2022\n Traducere și Interpretare Juridică, Institutul de Limbi Străine și Studii Internaționale",
+		"2017": "2017 - 2019\n Corespondent Limbi Străine, Institutul de Limbi Străine și Studii Internaționale\n Certificat de stat"
+	},
+	"PORTOFOLIU": {
+		"PORTOFOLIU": "Portofoliu"
+	},
+	"CONTACT": {
+		"CONTACTEAZĂ-MĂ": "Contactează-mă"
+	}
 }

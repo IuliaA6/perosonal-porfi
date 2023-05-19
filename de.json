@@ -1,24 +1,24 @@
 {
-    "TITEL": "Hallo da!",
-    "BESCHREIBUNG": "Ich bin Iulia Asproiu, eine Absolventin des Masterstudiengangs Multilingual Web Communication und suche nach der nächsten Herausforderung in meinem UX/UI-Feld.",
-    "ARBEIT": {
-        "2023": "2023-heute\n Social Media Manager & Koordinatorin für Fremdsprachenkurse, Akademie Zentrum für Kommunikation und Bildung GmbH",
-        "2022": "2022 - 2023\n Online-Redakteurin, Romania-Insider.com",
-        "2021": "2021 - 2022\n Integrationsberaterin, Stadt Fürth, Deutschland",
-        "2021-1": "2021 - 2022\n NLG Customer Success & Marketing Assistant, AX Semantics GmbH",
-        "2018": "2018 - 2021\n HR-Recruiterin & Marketingassistentin, Persontura GmbH Co KG, Erlangen, Deutschland",
-        "2016": "2016 - 2018\n Transkriptionistin für Englisch, Rumänisch, Deutsch, LXT AI"
-    },
-    "AKADEMISCH": {
-        "2022": "2022 - 2023\n Master in Multilingual Web Communication, Universität Straßburg, Sprachwissenschaftliche Fakultät",
-        "2020": "2020 - 2023\n Bachelor in Politik-, Verwaltungs- und Kommunikationswissenschaften, Babes-Bolyai-Universität, Cluj-Napoca, Rumänien Schwerpunkt: Journalismus und digitale Medien",
-        "2019": "2019 - 2022\n Rechtsübersetzen und Dolmetschen, Institut für Fremdsprachen und Auslandskunde",
-        "2017": "2017 - 2019\n Fremdsprachenkorrespondentin, Institut für Fremdsprachen und Auslandskunde\n Staatlich geprüft"
-    },
-    "PORTFOLIO": {
-        "PORTFOLIO": "Portfolio",
-    },
-    "KONTAKT": {
-        "KONTAKTIEREMICH": "Kontaktiere mich",
-    }
+	"TITEL": "Hallo da!",
+	"BESCHREIBUNG": "Ich bin Iulia Asproiu, eine Absolventin des Masterstudiengangs Multilingual Web Communication und suche nach der nächsten Herausforderung in meinem UX/UI-Feld.",
+	"ARBEIT": {
+		"2023": "2023-heute\n Social Media Manager & Koordinatorin für Fremdsprachenkurse, Akademie Zentrum für Kommunikation und Bildung GmbH",
+		"2022": "2022 - 2023\n Online-Redakteurin, Romania-Insider.com",
+		"2021": "2021 - 2022\n Integrationsberaterin, Stadt Fürth, Deutschland",
+		"2021-1": "2021 - 2022\n NLG Customer Success & Marketing Assistant, AX Semantics GmbH",
+		"2018": "2018 - 2021\n HR-Recruiterin & Marketingassistentin, Persontura GmbH Co KG, Erlangen, Deutschland",
+		"2016": "2016 - 2018\n Transkriptionistin für Englisch, Rumänisch, Deutsch, LXT AI"
+	},
+	"AKADEMISCH": {
+		"2022": "2022 - 2023\n Master in Multilingual Web Communication, Universität Straßburg, Sprachwissenschaftliche Fakultät",
+		"2020": "2020 - 2023\n Bachelor in Politik-, Verwaltungs- und Kommunikationswissenschaften, Babes-Bolyai-Universität, Cluj-Napoca, Rumänien Schwerpunkt: Journalismus und digitale Medien",
+		"2019": "2019 - 2022\n Rechtsübersetzen und Dolmetschen, Institut für Fremdsprachen und Auslandskunde",
+		"2017": "2017 - 2019\n Fremdsprachenkorrespondentin, Institut für Fremdsprachen und Auslandskunde\n Staatlich geprüft"
+	},
+	"PORTFOLIO": {
+		"PORTFOLIO": "Portfolio"
+	},
+	"KONTAKT": {
+		"KONTAKTIEREMICH": "Kontaktiere mich"
+	}
 }
