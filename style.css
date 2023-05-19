@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box !important;
+    font-family: fantasy !important;
+}
+
+.navi {
+    background-color: #D0C6D2;
+    ;
+}
+
+a.nav-link {
+    position: relative;
+    display: block;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #d7d9d7;
+    font-family: sans-serif;
+    /* font-size: 18px; */
+    font-weight: 600;
+    transition: .5s;
+    z-index: 1;
+}
+
+a.nav-link:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-top: 2px solid #b48eae;
+    border-bottom: 2px solid #b48eae;
+    transform: scaleY(2);
+    opacity: 0;
+    transition: .3s;
+}
+
+a.nav-link:after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #b48eae;
+    transform: scale(0);
+    opacity: 0;
+    transition: .3s;
+    z-index: -1;
+}
+
+a.nav-link:hover {
+    color: #b48eae;
+}
+
+a.nav-link:hover:before {
+    transform: scaleY(1);
+    opacity: 1;
+}
+
+a.nav-link:hover:after {
+    transform: scaleY(1);
+    opacity: 1;
+}
+
+.pro-img {
+    border-radius: 70%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.about-cards {
+    background-color: #D0C6D2;
+    box-shadow: #baacbd 0px 4px 12px;
+}
+
+.card {
+    height: 575px !important;
+}
+
+.card:hover {
+    transform: scale(0.95);
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.card-title {
+    color: #5a5959;
+}
+
+#portfolio {
+    height: 60%;
+    width: 70%;
+}
+
+/* .form-center {
+    justify-content: center;
+    align-items: center;
+} */
+
+.contact-form {
+    background-color: #D0C6D2;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 15px;
+}
+
+.submit {
+    background-color: #b48eae !important;
+    border: none !important;
+}
+
+.footer {
+    background-color: #d0c6d2;
+}
+
+footer a {
+    color: #4b23a3;
+}
